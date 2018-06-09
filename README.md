@@ -5,7 +5,7 @@ This data shows the crime information within Kansas City, Missouri. The displaye
 
 
 
-## Objectives:
+## Objectives
 
 Predict the monthly crime number 
 
@@ -70,7 +70,7 @@ The variables included in this dataset are:
 
 
 
-## Assignment
+## Questions
 
 ### Loading and preprocessing the data
 
@@ -94,9 +94,5 @@ The variables included in this dataset are:
 
 
 
-
-## Submitting your code
-
-Go into our GitHub repository web page?
 
 

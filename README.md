@@ -3,14 +3,21 @@
 This data shows the crime information within Kansas City, Missouri. The displayed information is the most current information from the data source as of the date of upload. The data source is dynamic and therefore constantly changing. Changes to the information may occur, as incident information is refined. While the Board of Police Commissioners of Kansas City, Missouri (Board) makes every effort to maintain and distribute accurate information, no warranties and/or representations of any kind are made regarding information, data or services provided. The Board is not responsible for misinterpretation of this information and makes no inference or judgment as to the relative safety to any particular area or neighborhood. In no event shall the Board be liable in any way to the users of this data. Users of this data shall hold the Board harmless in all matters and accounts arising from the use and/or accuracy of this data.
 
 
+
+
 ## Objectives:
 
 Predict the monthly crime number 
 
 
+
+
 ## Data
 
-The data for this project can be downloaded from https://data.kcmo.org:
+The data for this project can be downloaded from 
+https://drive.google.com/drive/folders/1qoaepogXNdREQWqtTvUsNVKQUyhjcI4K?usp=sharing
+
+The origional and additional data can be downloaded from https://data.kcmo.org
 
 * Dataset: 
 
@@ -25,6 +32,8 @@ The data for this project can be downloaded from https://data.kcmo.org:
 | KCPD Crime Data 2015 | No | March 7, 2018  | 26 | https://data.kcmo.org/Crime/KCPD-Crime-Data-2015/kbzx-7ehe |
 | KCPD Crime Data 2016 | No | March 7, 2018 | 26   | https://data.kcmo.org/Crime/KCPD-Crime-Data-2016/wbz8-pdv7 |
 | KCPD Crime Data 2017 | No | March 5, 2018 | 24 | https://data.kcmo.org/Crime/KCPD-Crime-Data-2017/98is-shjt |
+
+
 
 
 The variables included in this dataset are:
@@ -59,6 +68,8 @@ The variables included in this dataset are:
 
 
 
+
+
 ## Assignment
 
 ### Loading and preprocessing the data
@@ -66,23 +77,26 @@ The variables included in this dataset are:
 
 
 ### What is mean total number of crime taken per day/ month / season/year?
-……
+
 
 ### What is the average daily activity pattern?
-……
+
 
 ### Imputing missing values
 
 
 ### Are there differences in activity patterns between months/ seasons/ years?
 
+
 ### Are there differences in activity patterns between weekdays and weekends?
+
+
+
+
 
 
 ## Submitting your code
 
-
-?
 Go into our GitHub repository web page?
 
 
